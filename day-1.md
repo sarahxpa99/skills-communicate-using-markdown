@@ -13,3 +13,10 @@
 - some more
 * now with the star
 + it does not matter with symbol I take, it will alwasy be a bullet point dott
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+```cvs
+test
+```
